@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AWoods20
-- 👀 I’m interested in frontend wed development
-- 🌱 I’m currently learning HTML5, JavaScript, CSS, and Python
+- 👀 I’m interested in frontend web development
 - 💞️ I’m looking to collaborate on any frontend developments
 - 📫 How to reach me - woodsarial@gmail.com
 
